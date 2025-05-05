@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/jetstream": "^5.3",
+        "darkaonline/l5-swagger": "^9.0"
+    }
+}
